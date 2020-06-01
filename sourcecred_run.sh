@@ -24,7 +24,7 @@ main() {
   export SOURCECRED_DIRECTORY="$DEMO_DIR/sourcecred_data"
 
   node "$SOURCECRED_CLI" discourse https://forum.makerdao.com
-  node "$SOURCECRED_CLI" scores https://forum.makerdao.com > scores.json
+  node "$SOURCECRED_CLI" scores forum.makerdao.com > scores.json
   (cd "$SC_REPO_DIR" && yarn build --output-path "$SITE_DIR")
   mkdir -p "$SITE_DIR/api/v1"
   cp -r "$SOURCECRED_DIRECTORY" "$SITE_DIR/api/v1/data"
