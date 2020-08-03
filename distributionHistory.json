@@ -17342,5 +17342,2458 @@
                 "slow": 0
             }
         ]
+    },
+    {
+        "interval": {
+            "endTimeMs": 1596326400000,
+            "startTimeMs": 1595721600000
+        },
+        "payments": [
+            {
+                "alias": "discourse/@LongForWisdom",
+                "fast": 4358,
+                "slow": 22011
+            },
+            {
+                "alias": "discourse/@MakerMan",
+                "fast": 1297,
+                "slow": 7310
+            },
+            {
+                "alias": "discourse/@cyrus",
+                "fast": 1220,
+                "slow": 6288
+            },
+            {
+                "alias": "discourse/@monet-supply",
+                "fast": 2859,
+                "slow": 7101
+            },
+            {
+                "alias": "discourse/@hexonaut",
+                "fast": 1151,
+                "slow": 5137
+            },
+            {
+                "alias": "discourse/@Joshua_Pritikin",
+                "fast": 251,
+                "slow": 4077
+            },
+            {
+                "alias": "discourse/@charlesstlouis",
+                "fast": 1314,
+                "slow": 4505
+            },
+            {
+                "alias": "discourse/@Andy_McCall",
+                "fast": 1219,
+                "slow": 4242
+            },
+            {
+                "alias": "discourse/@paraficapital",
+                "fast": 277,
+                "slow": 3238
+            },
+            {
+                "alias": "discourse/@rune",
+                "fast": 1221,
+                "slow": 3836
+            },
+            {
+                "alias": "discourse/@befitsandpiper",
+                "fast": 3122,
+                "slow": 5622
+            },
+            {
+                "alias": "discourse/@equivrel",
+                "fast": 1097,
+                "slow": 3322
+            },
+            {
+                "alias": "discourse/@Aaron_Bartsch",
+                "fast": 1770,
+                "slow": 3968
+            },
+            {
+                "alias": "discourse/@rich.brown",
+                "fast": 153,
+                "slow": 2222
+            },
+            {
+                "alias": "discourse/@Jiecut",
+                "fast": 1139,
+                "slow": 3235
+            },
+            {
+                "alias": "discourse/@Planet_X",
+                "fast": 439,
+                "slow": 2466
+            },
+            {
+                "alias": "discourse/@FourthStreet",
+                "fast": 871,
+                "slow": 2866
+            },
+            {
+                "alias": "discourse/@NikKunkel",
+                "fast": 506,
+                "slow": 2459
+            },
+            {
+                "alias": "discourse/@wil",
+                "fast": 500,
+                "slow": 2258
+            },
+            {
+                "alias": "discourse/@Mitote",
+                "fast": 0,
+                "slow": 1706
+            },
+            {
+                "alias": "discourse/@spin",
+                "fast": 197,
+                "slow": 1664
+            },
+            {
+                "alias": "discourse/@Derek",
+                "fast": 192,
+                "slow": 1705
+            },
+            {
+                "alias": "discourse/@IslandHunting",
+                "fast": 367,
+                "slow": 1795
+            },
+            {
+                "alias": "discourse/@bit",
+                "fast": 690,
+                "slow": 2073
+            },
+            {
+                "alias": "discourse/@andytudhope",
+                "fast": 49,
+                "slow": 1330
+            },
+            {
+                "alias": "discourse/@Kurt_Barry",
+                "fast": 594,
+                "slow": 1814
+            },
+            {
+                "alias": "discourse/@Jay-Prime",
+                "fast": 7,
+                "slow": 1218
+            },
+            {
+                "alias": "discourse/@latetot",
+                "fast": 305,
+                "slow": 1470
+            },
+            {
+                "alias": "discourse/@BrianMcMakerDAO",
+                "fast": 183,
+                "slow": 1328
+            },
+            {
+                "alias": "discourse/@jernejml",
+                "fast": 120,
+                "slow": 1212
+            },
+            {
+                "alias": "discourse/@Mariano_Conti",
+                "fast": 59,
+                "slow": 1125
+            },
+            {
+                "alias": "discourse/@Jtathmann",
+                "fast": 1180,
+                "slow": 2190
+            },
+            {
+                "alias": "discourse/@Davidutro",
+                "fast": 110,
+                "slow": 1152
+            },
+            {
+                "alias": "discourse/@wjmelements",
+                "fast": 428,
+                "slow": 1393
+            },
+            {
+                "alias": "discourse/@cmooney",
+                "fast": 217,
+                "slow": 1180
+            },
+            {
+                "alias": "discourse/@owocki",
+                "fast": 99,
+                "slow": 1022
+            },
+            {
+                "alias": "discourse/@mhluongo",
+                "fast": 3,
+                "slow": 906
+            },
+            {
+                "alias": "discourse/@puntium",
+                "fast": 0,
+                "slow": 889
+            },
+            {
+                "alias": "discourse/@adrianhacker-pdx",
+                "fast": 0,
+                "slow": 844
+            },
+            {
+                "alias": "discourse/@mmoossttaaffaa",
+                "fast": 571,
+                "slow": 1393
+            },
+            {
+                "alias": "discourse/@make_dao_2020",
+                "fast": 153,
+                "slow": 984
+            },
+            {
+                "alias": "discourse/@Deniz_Omer",
+                "fast": 7,
+                "slow": 786
+            },
+            {
+                "alias": "discourse/@Peter_Jones",
+                "fast": 30,
+                "slow": 796
+            },
+            {
+                "alias": "discourse/@Primoz",
+                "fast": 19,
+                "slow": 781
+            },
+            {
+                "alias": "discourse/@hongbiao_li",
+                "fast": 587,
+                "slow": 1358
+            },
+            {
+                "alias": "discourse/@s_ben",
+                "fast": 177,
+                "slow": 916
+            },
+            {
+                "alias": "discourse/@andy8052",
+                "fast": 1162,
+                "slow": 1832
+            },
+            {
+                "alias": "discourse/@silto",
+                "fast": 0,
+                "slow": 682
+            },
+            {
+                "alias": "discourse/@colekennelly",
+                "fast": 416,
+                "slow": 999
+            },
+            {
+                "alias": "discourse/@Three_Cents",
+                "fast": 0,
+                "slow": 632
+            },
+            {
+                "alias": "discourse/@Jeffshaw",
+                "fast": 984,
+                "slow": 1616
+            },
+            {
+                "alias": "discourse/@Spidomo",
+                "fast": 569,
+                "slow": 1153
+            },
+            {
+                "alias": "discourse/@Sirlupinwatson1",
+                "fast": 3,
+                "slow": 594
+            },
+            {
+                "alias": "discourse/@FabianSchuessler",
+                "fast": 124,
+                "slow": 691
+            },
+            {
+                "alias": "discourse/@OliverNChalk",
+                "fast": 371,
+                "slow": 921
+            },
+            {
+                "alias": "discourse/@itamarl",
+                "fast": 252,
+                "slow": 825
+            },
+            {
+                "alias": "discourse/@haydenadams",
+                "fast": 8,
+                "slow": 575
+            },
+            {
+                "alias": "discourse/@Sandhaai",
+                "fast": 6,
+                "slow": 559
+            },
+            {
+                "alias": "discourse/@sorenpeter",
+                "fast": 0,
+                "slow": 541
+            },
+            {
+                "alias": "discourse/@RyanRodenbaugh",
+                "fast": 0,
+                "slow": 513
+            },
+            {
+                "alias": "discourse/@prankstr25",
+                "fast": 1026,
+                "slow": 1291
+            },
+            {
+                "alias": "discourse/@Adam_Skrodzki",
+                "fast": 0,
+                "slow": 513
+            },
+            {
+                "alias": "discourse/@The_Ratj",
+                "fast": 110,
+                "slow": 589
+            },
+            {
+                "alias": "discourse/@MicahZoltu",
+                "fast": 0,
+                "slow": 496
+            },
+            {
+                "alias": "discourse/@freiza",
+                "fast": 238,
+                "slow": 701
+            },
+            {
+                "alias": "discourse/@MakerMouse",
+                "fast": 22,
+                "slow": 488
+            },
+            {
+                "alias": "discourse/@ElProgreso",
+                "fast": 437,
+                "slow": 894
+            },
+            {
+                "alias": "discourse/@Renat",
+                "fast": 0,
+                "slow": 459
+            },
+            {
+                "alias": "discourse/@swakya",
+                "fast": 36,
+                "slow": 490
+            },
+            {
+                "alias": "discourse/@mario",
+                "fast": 518,
+                "slow": 957
+            },
+            {
+                "alias": "discourse/@lix",
+                "fast": 144,
+                "slow": 596
+            },
+            {
+                "alias": "discourse/@Akiva",
+                "fast": 278,
+                "slow": 720
+            },
+            {
+                "alias": "discourse/@DenizOmer",
+                "fast": 17,
+                "slow": 456
+            },
+            {
+                "alias": "discourse/@Vault2349",
+                "fast": 0,
+                "slow": 429
+            },
+            {
+                "alias": "discourse/@cnoyes",
+                "fast": 76,
+                "slow": 506
+            },
+            {
+                "alias": "discourse/@rafael.cosman",
+                "fast": 1475,
+                "slow": 1855
+            },
+            {
+                "alias": "discourse/@Claude",
+                "fast": 94,
+                "slow": 490
+            },
+            {
+                "alias": "discourse/@Agustin",
+                "fast": 2,
+                "slow": 378
+            },
+            {
+                "alias": "discourse/@rileyjt",
+                "fast": 933,
+                "slow": 1284
+            },
+            {
+                "alias": "discourse/@banteg",
+                "fast": 0,
+                "slow": 364
+            },
+            {
+                "alias": "discourse/@tbone",
+                "fast": 141,
+                "slow": 602
+            },
+            {
+                "alias": "discourse/@kluge",
+                "fast": 20,
+                "slow": 375
+            },
+            {
+                "alias": "discourse/@lucasmanuel",
+                "fast": 696,
+                "slow": 1031
+            },
+            {
+                "alias": "discourse/@Leighton",
+                "fast": 0,
+                "slow": 346
+            },
+            {
+                "alias": "discourse/@hsingh21",
+                "fast": 31,
+                "slow": 370
+            },
+            {
+                "alias": "discourse/@g_dip",
+                "fast": 73,
+                "slow": 405
+            },
+            {
+                "alias": "discourse/@valo",
+                "fast": 126,
+                "slow": 452
+            },
+            {
+                "alias": "discourse/@ilan",
+                "fast": 85,
+                "slow": 406
+            },
+            {
+                "alias": "discourse/@Rusl_Bagau",
+                "fast": 0,
+                "slow": 310
+            },
+            {
+                "alias": "discourse/@WiV_Ceo",
+                "fast": 172,
+                "slow": 477
+            },
+            {
+                "alias": "discourse/@DeFiDude",
+                "fast": 0,
+                "slow": 303
+            },
+            {
+                "alias": "discourse/@Tosh9.0",
+                "fast": 68,
+                "slow": 338
+            },
+            {
+                "alias": "discourse/@Damas",
+                "fast": 49,
+                "slow": 354
+            },
+            {
+                "alias": "discourse/@fbarnes",
+                "fast": 0,
+                "slow": 299
+            },
+            {
+                "alias": "discourse/@atulkhekade",
+                "fast": 0,
+                "slow": 297
+            },
+            {
+                "alias": "discourse/@maxlev",
+                "fast": 39,
+                "slow": 328
+            },
+            {
+                "alias": "discourse/@Vault2288",
+                "fast": 40,
+                "slow": 328
+            },
+            {
+                "alias": "discourse/@michwill",
+                "fast": 50,
+                "slow": 342
+            },
+            {
+                "alias": "discourse/@Robert",
+                "fast": 644,
+                "slow": 923
+            },
+            {
+                "alias": "discourse/@amcassetti",
+                "fast": 0,
+                "slow": 282
+            },
+            {
+                "alias": "discourse/@Britton.Overall",
+                "fast": 0,
+                "slow": 289
+            },
+            {
+                "alias": "discourse/@mike.wyre",
+                "fast": 1,
+                "slow": 280
+            },
+            {
+                "alias": "discourse/@Ross",
+                "fast": 0,
+                "slow": 277
+            },
+            {
+                "alias": "discourse/@twblack88",
+                "fast": 168,
+                "slow": 444
+            },
+            {
+                "alias": "discourse/@wouter",
+                "fast": 10,
+                "slow": 337
+            },
+            {
+                "alias": "discourse/@psybull",
+                "fast": 0,
+                "slow": 308
+            },
+            {
+                "alias": "discourse/@alexhevans",
+                "fast": 0,
+                "slow": 259
+            },
+            {
+                "alias": "discourse/@pyggie",
+                "fast": 0,
+                "slow": 250
+            },
+            {
+                "alias": "discourse/@ChainLinkGod",
+                "fast": 164,
+                "slow": 406
+            },
+            {
+                "alias": "discourse/@alexdreyfus",
+                "fast": 0,
+                "slow": 240
+            },
+            {
+                "alias": "discourse/@Rich_Cuellar-Lopez",
+                "fast": 6,
+                "slow": 247
+            },
+            {
+                "alias": "discourse/@almccann",
+                "fast": 0,
+                "slow": 238
+            },
+            {
+                "alias": "discourse/@yangzhao28",
+                "fast": 3,
+                "slow": 242
+            },
+            {
+                "alias": "discourse/@scottrepreneur",
+                "fast": 72,
+                "slow": 307
+            },
+            {
+                "alias": "discourse/@danger",
+                "fast": 1,
+                "slow": 231
+            },
+            {
+                "alias": "discourse/@iammeeoh",
+                "fast": 0,
+                "slow": 228
+            },
+            {
+                "alias": "discourse/@1bit",
+                "fast": 0,
+                "slow": 224
+            },
+            {
+                "alias": "discourse/@joeykrug",
+                "fast": 0,
+                "slow": 230
+            },
+            {
+                "alias": "discourse/@RepoTactics",
+                "fast": 20,
+                "slow": 235
+            },
+            {
+                "alias": "discourse/@yaginuma",
+                "fast": 4,
+                "slow": 228
+            },
+            {
+                "alias": "discourse/@gettyh",
+                "fast": 0,
+                "slow": 220
+            },
+            {
+                "alias": "discourse/@Doo",
+                "fast": 151,
+                "slow": 358
+            },
+            {
+                "alias": "discourse/@dawson",
+                "fast": 0,
+                "slow": 226
+            },
+            {
+                "alias": "discourse/@shoshana",
+                "fast": 0,
+                "slow": 217
+            },
+            {
+                "alias": "discourse/@nick.jackman",
+                "fast": 0,
+                "slow": 215
+            },
+            {
+                "alias": "discourse/@rawhaus",
+                "fast": 108,
+                "slow": 319
+            },
+            {
+                "alias": "discourse/@409h",
+                "fast": 754,
+                "slow": 949
+            },
+            {
+                "alias": "discourse/@adrianmcli",
+                "fast": 26,
+                "slow": 235
+            },
+            {
+                "alias": "discourse/@chaser",
+                "fast": 0,
+                "slow": 207
+            },
+            {
+                "alias": "discourse/@zenithlight",
+                "fast": 45,
+                "slow": 251
+            },
+            {
+                "alias": "discourse/@kwadrax",
+                "fast": 0,
+                "slow": 200
+            },
+            {
+                "alias": "discourse/@galabasquer",
+                "fast": 0,
+                "slow": 202
+            },
+            {
+                "alias": "discourse/@TomHoward",
+                "fast": 0,
+                "slow": 191
+            },
+            {
+                "alias": "discourse/@Tarpmaster",
+                "fast": 52,
+                "slow": 244
+            },
+            {
+                "alias": "discourse/@mrabino1",
+                "fast": 0,
+                "slow": 192
+            },
+            {
+                "alias": "discourse/@Rodrigo_A_Guerra",
+                "fast": 0,
+                "slow": 206
+            },
+            {
+                "alias": "discourse/@vamsi",
+                "fast": 63,
+                "slow": 253
+            },
+            {
+                "alias": "discourse/@jsomensatto",
+                "fast": 0,
+                "slow": 185
+            },
+            {
+                "alias": "discourse/@ItsGus",
+                "fast": 201,
+                "slow": 379
+            },
+            {
+                "alias": "discourse/@mosayeri",
+                "fast": 127,
+                "slow": 302
+            },
+            {
+                "alias": "discourse/@Rafa",
+                "fast": 37,
+                "slow": 221
+            },
+            {
+                "alias": "discourse/@ginworkflow",
+                "fast": 0,
+                "slow": 178
+            },
+            {
+                "alias": "discourse/@juanjuan",
+                "fast": 1,
+                "slow": 179
+            },
+            {
+                "alias": "discourse/@benita",
+                "fast": 0,
+                "slow": 173
+            },
+            {
+                "alias": "discourse/@Jack",
+                "fast": 13,
+                "slow": 186
+            },
+            {
+                "alias": "discourse/@pcdan",
+                "fast": 0,
+                "slow": 170
+            },
+            {
+                "alias": "discourse/@marczeller",
+                "fast": 107,
+                "slow": 277
+            },
+            {
+                "alias": "discourse/@decentralion",
+                "fast": 1,
+                "slow": 172
+            },
+            {
+                "alias": "discourse/@tachyon",
+                "fast": 0,
+                "slow": 169
+            },
+            {
+                "alias": "discourse/@mirko",
+                "fast": 0,
+                "slow": 166
+            },
+            {
+                "alias": "discourse/@secneu",
+                "fast": 0,
+                "slow": 166
+            },
+            {
+                "alias": "discourse/@Ben_Morris",
+                "fast": 0,
+                "slow": 162
+            },
+            {
+                "alias": "discourse/@peterpan",
+                "fast": 0,
+                "slow": 160
+            },
+            {
+                "alias": "discourse/@jparklev",
+                "fast": 0,
+                "slow": 158
+            },
+            {
+                "alias": "discourse/@David_Meister",
+                "fast": 0,
+                "slow": 158
+            },
+            {
+                "alias": "discourse/@KingD",
+                "fast": 0,
+                "slow": 156
+            },
+            {
+                "alias": "discourse/@Johann",
+                "fast": 244,
+                "slow": 398
+            },
+            {
+                "alias": "discourse/@rovdi",
+                "fast": 0,
+                "slow": 157
+            },
+            {
+                "alias": "discourse/@AdrienDLT",
+                "fast": 0,
+                "slow": 154
+            },
+            {
+                "alias": "discourse/@SebVentures",
+                "fast": 495,
+                "slow": 630
+            },
+            {
+                "alias": "discourse/@sah",
+                "fast": 364,
+                "slow": 507
+            },
+            {
+                "alias": "discourse/@Robin_masters",
+                "fast": 0,
+                "slow": 152
+            },
+            {
+                "alias": "discourse/@stable",
+                "fast": 0,
+                "slow": 154
+            },
+            {
+                "alias": "discourse/@Nielsd",
+                "fast": 13,
+                "slow": 166
+            },
+            {
+                "alias": "discourse/@uvizhe",
+                "fast": 80,
+                "slow": 231
+            },
+            {
+                "alias": "discourse/@Kathleen_Chu",
+                "fast": 0,
+                "slow": 153
+            },
+            {
+                "alias": "discourse/@ryanberckmans",
+                "fast": 194,
+                "slow": 337
+            },
+            {
+                "alias": "discourse/@MarkL",
+                "fast": 0,
+                "slow": 149
+            },
+            {
+                "alias": "discourse/@tester",
+                "fast": 0,
+                "slow": 147
+            },
+            {
+                "alias": "discourse/@bartek",
+                "fast": 0,
+                "slow": 146
+            },
+            {
+                "alias": "discourse/@Snow",
+                "fast": 0,
+                "slow": 144
+            },
+            {
+                "alias": "discourse/@the_ocs",
+                "fast": 0,
+                "slow": 145
+            },
+            {
+                "alias": "discourse/@NatalieChin80",
+                "fast": 0,
+                "slow": 143
+            },
+            {
+                "alias": "discourse/@tomhschmidt",
+                "fast": 0,
+                "slow": 140
+            },
+            {
+                "alias": "discourse/@Jaybro91",
+                "fast": 41,
+                "slow": 180
+            },
+            {
+                "alias": "discourse/@OKDuncan",
+                "fast": 12,
+                "slow": 151
+            },
+            {
+                "alias": "discourse/@Bobface",
+                "fast": 0,
+                "slow": 135
+            },
+            {
+                "alias": "discourse/@hdh",
+                "fast": 73,
+                "slow": 197
+            },
+            {
+                "alias": "discourse/@taisuke_hory",
+                "fast": 0,
+                "slow": 128
+            },
+            {
+                "alias": "discourse/@neece",
+                "fast": 0,
+                "slow": 128
+            },
+            {
+                "alias": "discourse/@aklamun",
+                "fast": 34,
+                "slow": 164
+            },
+            {
+                "alias": "discourse/@Claddy",
+                "fast": 0,
+                "slow": 126
+            },
+            {
+                "alias": "discourse/@mintcloud",
+                "fast": 0,
+                "slow": 126
+            },
+            {
+                "alias": "discourse/@rojosnow",
+                "fast": 46,
+                "slow": 172
+            },
+            {
+                "alias": "discourse/@smaugho",
+                "fast": 415,
+                "slow": 527
+            },
+            {
+                "alias": "discourse/@ashwath",
+                "fast": 0,
+                "slow": 123
+            },
+            {
+                "alias": "discourse/@ChrisBlec",
+                "fast": 0,
+                "slow": 122
+            },
+            {
+                "alias": "discourse/@dleonard00",
+                "fast": 0,
+                "slow": 121
+            },
+            {
+                "alias": "discourse/@experience",
+                "fast": 149,
+                "slow": 269
+            },
+            {
+                "alias": "discourse/@censureworld",
+                "fast": 0,
+                "slow": 121
+            },
+            {
+                "alias": "discourse/@Nate_Hindman",
+                "fast": 43,
+                "slow": 165
+            },
+            {
+                "alias": "discourse/@Nouhi",
+                "fast": 23,
+                "slow": 140
+            },
+            {
+                "alias": "discourse/@ta32",
+                "fast": 0,
+                "slow": 116
+            },
+            {
+                "alias": "discourse/@ZacharyDMM",
+                "fast": 0,
+                "slow": 115
+            },
+            {
+                "alias": "discourse/@hinchliff",
+                "fast": 0,
+                "slow": 112
+            },
+            {
+                "alias": "discourse/@Petru_Catana",
+                "fast": 0,
+                "slow": 111
+            },
+            {
+                "alias": "discourse/@CapnAL",
+                "fast": 0,
+                "slow": 114
+            },
+            {
+                "alias": "discourse/@Fernando_Tiberti",
+                "fast": 0,
+                "slow": 109
+            },
+            {
+                "alias": "discourse/@fullname",
+                "fast": 0,
+                "slow": 109
+            },
+            {
+                "alias": "discourse/@mds1",
+                "fast": 0,
+                "slow": 110
+            },
+            {
+                "alias": "discourse/@HeyChristopher",
+                "fast": 59,
+                "slow": 166
+            },
+            {
+                "alias": "discourse/@bcd",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@BrendanChou",
+                "fast": 83,
+                "slow": 189
+            },
+            {
+                "alias": "discourse/@bg1983",
+                "fast": 0,
+                "slow": 105
+            },
+            {
+                "alias": "discourse/@PatrickDehkordi",
+                "fast": 2,
+                "slow": 106
+            },
+            {
+                "alias": "discourse/@DogGodFrogLog",
+                "fast": 0,
+                "slow": 103
+            },
+            {
+                "alias": "discourse/@oreo",
+                "fast": 0,
+                "slow": 103
+            },
+            {
+                "alias": "discourse/@Who_is_John_Galt",
+                "fast": 13,
+                "slow": 116
+            },
+            {
+                "alias": "discourse/@hellopentester",
+                "fast": 0,
+                "slow": 101
+            },
+            {
+                "alias": "discourse/@AmeenSumac",
+                "fast": 36,
+                "slow": 136
+            },
+            {
+                "alias": "discourse/@tom",
+                "fast": 0,
+                "slow": 97
+            },
+            {
+                "alias": "discourse/@michaeldunwort1",
+                "fast": 0,
+                "slow": 97
+            },
+            {
+                "alias": "discourse/@iamchrissmith",
+                "fast": 0,
+                "slow": 96
+            },
+            {
+                "alias": "discourse/@DeepDownDogDong",
+                "fast": 0,
+                "slow": 96
+            },
+            {
+                "alias": "discourse/@EAV",
+                "fast": 3,
+                "slow": 100
+            },
+            {
+                "alias": "discourse/@Peter_Albrecht",
+                "fast": 19,
+                "slow": 114
+            },
+            {
+                "alias": "discourse/@dominik",
+                "fast": 0,
+                "slow": 101
+            },
+            {
+                "alias": "discourse/@PaulDirac",
+                "fast": 0,
+                "slow": 93
+            },
+            {
+                "alias": "discourse/@balupton",
+                "fast": 0,
+                "slow": 92
+            },
+            {
+                "alias": "discourse/@slowchimera",
+                "fast": 0,
+                "slow": 96
+            },
+            {
+                "alias": "discourse/@LEscobar-Driver",
+                "fast": 4,
+                "slow": 94
+            },
+            {
+                "alias": "discourse/@mexfogel",
+                "fast": 0,
+                "slow": 90
+            },
+            {
+                "alias": "discourse/@vires-in-numeris",
+                "fast": 17,
+                "slow": 106
+            },
+            {
+                "alias": "discourse/@anonywhale",
+                "fast": 0,
+                "slow": 88
+            },
+            {
+                "alias": "discourse/@monteluna",
+                "fast": 40,
+                "slow": 161
+            },
+            {
+                "alias": "discourse/@musatheredguard",
+                "fast": 0,
+                "slow": 86
+            },
+            {
+                "alias": "discourse/@scott_lew_is",
+                "fast": 0,
+                "slow": 86
+            },
+            {
+                "alias": "discourse/@mikaleo",
+                "fast": 83,
+                "slow": 162
+            },
+            {
+                "alias": "discourse/@pk7654",
+                "fast": 0,
+                "slow": 85
+            },
+            {
+                "alias": "discourse/@aburban90",
+                "fast": 2,
+                "slow": 86
+            },
+            {
+                "alias": "discourse/@Elvis_Hee",
+                "fast": 2,
+                "slow": 86
+            },
+            {
+                "alias": "discourse/@sambacha",
+                "fast": 0,
+                "slow": 81
+            },
+            {
+                "alias": "discourse/@jordan.jackson",
+                "fast": 0,
+                "slow": 81
+            },
+            {
+                "alias": "discourse/@SolKo",
+                "fast": 44,
+                "slow": 125
+            },
+            {
+                "alias": "discourse/@ryancreatescopy",
+                "fast": 0,
+                "slow": 81
+            },
+            {
+                "alias": "discourse/@Gregory_Klumov",
+                "fast": 214,
+                "slow": 285
+            },
+            {
+                "alias": "discourse/@Howard_Krieger",
+                "fast": 1,
+                "slow": 80
+            },
+            {
+                "alias": "discourse/@vany365",
+                "fast": 0,
+                "slow": 77
+            },
+            {
+                "alias": "discourse/@andrew",
+                "fast": 0,
+                "slow": 75
+            },
+            {
+                "alias": "discourse/@adrianleb",
+                "fast": 18,
+                "slow": 95
+            },
+            {
+                "alias": "discourse/@Luposian",
+                "fast": 0,
+                "slow": 75
+            },
+            {
+                "alias": "discourse/@kevin.gruendel",
+                "fast": 0,
+                "slow": 74
+            },
+            {
+                "alias": "discourse/@alexis",
+                "fast": 161,
+                "slow": 232
+            },
+            {
+                "alias": "discourse/@Aviv_Milner",
+                "fast": 0,
+                "slow": 75
+            },
+            {
+                "alias": "discourse/@Quants_Lab",
+                "fast": 0,
+                "slow": 73
+            },
+            {
+                "alias": "discourse/@Marc_Enjin",
+                "fast": 69,
+                "slow": 143
+            },
+            {
+                "alias": "discourse/@Kukkio",
+                "fast": 203,
+                "slow": 255
+            },
+            {
+                "alias": "discourse/@Daa",
+                "fast": 3,
+                "slow": 78
+            },
+            {
+                "alias": "discourse/@mtwomey",
+                "fast": 0,
+                "slow": 71
+            },
+            {
+                "alias": "discourse/@akash.patel",
+                "fast": 12,
+                "slow": 80
+            },
+            {
+                "alias": "discourse/@brock",
+                "fast": 58,
+                "slow": 125
+            },
+            {
+                "alias": "discourse/@YalorMewn",
+                "fast": 95,
+                "slow": 160
+            },
+            {
+                "alias": "discourse/@ethernian",
+                "fast": 1,
+                "slow": 67
+            },
+            {
+                "alias": "discourse/@wuehler",
+                "fast": 0,
+                "slow": 65
+            },
+            {
+                "alias": "discourse/@Jiji",
+                "fast": 0,
+                "slow": 64
+            },
+            {
+                "alias": "discourse/@meow",
+                "fast": 60,
+                "slow": 123
+            },
+            {
+                "alias": "discourse/@BlakeJ",
+                "fast": 0,
+                "slow": 62
+            },
+            {
+                "alias": "discourse/@shuttlenaut",
+                "fast": 0,
+                "slow": 62
+            },
+            {
+                "alias": "discourse/@hocr22",
+                "fast": 0,
+                "slow": 62
+            },
+            {
+                "alias": "discourse/@Piervanni",
+                "fast": 0,
+                "slow": 62
+            },
+            {
+                "alias": "discourse/@Marco",
+                "fast": 10,
+                "slow": 72
+            },
+            {
+                "alias": "discourse/@AXA",
+                "fast": 40,
+                "slow": 102
+            },
+            {
+                "alias": "discourse/@energyone",
+                "fast": 0,
+                "slow": 60
+            },
+            {
+                "alias": "discourse/@StasisMarketing",
+                "fast": 167,
+                "slow": 212
+            },
+            {
+                "alias": "discourse/@snoopy",
+                "fast": 0,
+                "slow": 58
+            },
+            {
+                "alias": "discourse/@SwftCoin",
+                "fast": 0,
+                "slow": 59
+            },
+            {
+                "alias": "discourse/@Lin",
+                "fast": 11,
+                "slow": 69
+            },
+            {
+                "alias": "discourse/@Sandeep_Nailwal",
+                "fast": 1,
+                "slow": 58
+            },
+            {
+                "alias": "discourse/@shane",
+                "fast": 0,
+                "slow": 59
+            },
+            {
+                "alias": "discourse/@wschwab",
+                "fast": 81,
+                "slow": 134
+            },
+            {
+                "alias": "discourse/@brisket",
+                "fast": 0,
+                "slow": 53
+            },
+            {
+                "alias": "discourse/@Socratic9",
+                "fast": 0,
+                "slow": 52
+            },
+            {
+                "alias": "discourse/@halilakin",
+                "fast": 0,
+                "slow": 51
+            },
+            {
+                "alias": "discourse/@Poligon_Assets",
+                "fast": 0,
+                "slow": 50
+            },
+            {
+                "alias": "discourse/@sepu85",
+                "fast": 41,
+                "slow": 93
+            },
+            {
+                "alias": "discourse/@vault1202",
+                "fast": 34,
+                "slow": 86
+            },
+            {
+                "alias": "discourse/@gierre",
+                "fast": 0,
+                "slow": 50
+            },
+            {
+                "alias": "discourse/@loongy",
+                "fast": 164,
+                "slow": 207
+            },
+            {
+                "alias": "discourse/@maker_user",
+                "fast": 61,
+                "slow": 77
+            },
+            {
+                "alias": "discourse/@thenateway",
+                "fast": 0,
+                "slow": 48
+            },
+            {
+                "alias": "discourse/@curt_haze",
+                "fast": 0,
+                "slow": 48
+            },
+            {
+                "alias": "discourse/@crypto",
+                "fast": 0,
+                "slow": 47
+            },
+            {
+                "alias": "discourse/@Jeff.Amico",
+                "fast": 0,
+                "slow": 48
+            },
+            {
+                "alias": "discourse/@sserrano44",
+                "fast": 0,
+                "slow": 47
+            },
+            {
+                "alias": "discourse/@Parsonal_Info",
+                "fast": 188,
+                "slow": 238
+            },
+            {
+                "alias": "discourse/@amosrendao",
+                "fast": 1,
+                "slow": 49
+            },
+            {
+                "alias": "discourse/@ByThePool",
+                "fast": 0,
+                "slow": 46
+            },
+            {
+                "alias": "discourse/@Vishesh",
+                "fast": 0,
+                "slow": 47
+            },
+            {
+                "alias": "discourse/@ChrisB",
+                "fast": 0,
+                "slow": 46
+            },
+            {
+                "alias": "discourse/@Shingen",
+                "fast": 0,
+                "slow": 46
+            },
+            {
+                "alias": "discourse/@Ktmt1618",
+                "fast": 38,
+                "slow": 85
+            },
+            {
+                "alias": "discourse/@EthWarrior",
+                "fast": 5,
+                "slow": 51
+            },
+            {
+                "alias": "discourse/@jacek",
+                "fast": 0,
+                "slow": 44
+            },
+            {
+                "alias": "discourse/@consciousentity",
+                "fast": 41,
+                "slow": 85
+            },
+            {
+                "alias": "discourse/@Matt_Jobbe_Duval",
+                "fast": 0,
+                "slow": 43
+            },
+            {
+                "alias": "discourse/@bgits",
+                "fast": 0,
+                "slow": 43
+            },
+            {
+                "alias": "discourse/@curiosoacerca",
+                "fast": 0,
+                "slow": 43
+            },
+            {
+                "alias": "discourse/@adamluc",
+                "fast": 0,
+                "slow": 42
+            },
+            {
+                "alias": "discourse/@_LS",
+                "fast": 0,
+                "slow": 41
+            },
+            {
+                "alias": "discourse/@yaronvel",
+                "fast": 2,
+                "slow": 43
+            },
+            {
+                "alias": "discourse/@Barukimang",
+                "fast": 0,
+                "slow": 39
+            },
+            {
+                "alias": "discourse/@LebedevAP",
+                "fast": 0,
+                "slow": 40
+            },
+            {
+                "alias": "discourse/@lollike",
+                "fast": 0,
+                "slow": 39
+            },
+            {
+                "alias": "discourse/@MakerRof",
+                "fast": 0,
+                "slow": 39
+            },
+            {
+                "alias": "discourse/@markobarko",
+                "fast": 23,
+                "slow": 60
+            },
+            {
+                "alias": "discourse/@Graciouseats",
+                "fast": 1,
+                "slow": 40
+            },
+            {
+                "alias": "discourse/@8fold",
+                "fast": 0,
+                "slow": 37
+            },
+            {
+                "alias": "discourse/@Elliott",
+                "fast": 0,
+                "slow": 39
+            },
+            {
+                "alias": "discourse/@chris_vensand",
+                "fast": 21,
+                "slow": 58
+            },
+            {
+                "alias": "discourse/@amadeobrands",
+                "fast": 0,
+                "slow": 36
+            },
+            {
+                "alias": "discourse/@williamscofflaw",
+                "fast": 0,
+                "slow": 38
+            },
+            {
+                "alias": "discourse/@CL3",
+                "fast": 0,
+                "slow": 37
+            },
+            {
+                "alias": "discourse/@marcandu",
+                "fast": 0,
+                "slow": 35
+            },
+            {
+                "alias": "discourse/@pragmaticadam",
+                "fast": 0,
+                "slow": 36
+            },
+            {
+                "alias": "discourse/@ma_ki",
+                "fast": 33,
+                "slow": 68
+            },
+            {
+                "alias": "discourse/@compvioz",
+                "fast": 0,
+                "slow": 35
+            },
+            {
+                "alias": "discourse/@MarianoDP",
+                "fast": 0,
+                "slow": 35
+            },
+            {
+                "alias": "discourse/@Anatta",
+                "fast": 0,
+                "slow": 34
+            },
+            {
+                "alias": "discourse/@mdvault5026",
+                "fast": 0,
+                "slow": 34
+            },
+            {
+                "alias": "discourse/@gluk64",
+                "fast": 115,
+                "slow": 144
+            },
+            {
+                "alias": "discourse/@juan.carlos.cepeda",
+                "fast": 0,
+                "slow": 33
+            },
+            {
+                "alias": "discourse/@nr2618",
+                "fast": 9,
+                "slow": 41
+            },
+            {
+                "alias": "discourse/@vidalleo",
+                "fast": 31,
+                "slow": 62
+            },
+            {
+                "alias": "discourse/@Banker",
+                "fast": 3,
+                "slow": 35
+            },
+            {
+                "alias": "discourse/@KamesCG",
+                "fast": 0,
+                "slow": 31
+            },
+            {
+                "alias": "discourse/@callumzone",
+                "fast": 0,
+                "slow": 31
+            },
+            {
+                "alias": "discourse/@yuko",
+                "fast": 0,
+                "slow": 31
+            },
+            {
+                "alias": "discourse/@aleone",
+                "fast": 0,
+                "slow": 31
+            },
+            {
+                "alias": "discourse/@mfin",
+                "fast": 22,
+                "slow": 53
+            },
+            {
+                "alias": "discourse/@Rev0lvr1985",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discourse/@demo",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discourse/@aurelius",
+                "fast": 47,
+                "slow": 78
+            },
+            {
+                "alias": "discourse/@Metternich",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discourse/@aeno",
+                "fast": 0,
+                "slow": 80
+            },
+            {
+                "alias": "discourse/@AleG",
+                "fast": 20,
+                "slow": 48
+            },
+            {
+                "alias": "discourse/@supermisa",
+                "fast": 0,
+                "slow": 27
+            },
+            {
+                "alias": "discourse/@8ouncy",
+                "fast": 0,
+                "slow": 29
+            },
+            {
+                "alias": "discourse/@rraallvv",
+                "fast": 0,
+                "slow": 30
+            },
+            {
+                "alias": "discourse/@a_mote",
+                "fast": 0,
+                "slow": 29
+            },
+            {
+                "alias": "discourse/@Helen_Tu",
+                "fast": 101,
+                "slow": 128
+            },
+            {
+                "alias": "discourse/@pleyuh",
+                "fast": 0,
+                "slow": 28
+            },
+            {
+                "alias": "discourse/@liquidity",
+                "fast": 0,
+                "slow": 27
+            },
+            {
+                "alias": "discourse/@BillDucoin",
+                "fast": 0,
+                "slow": 26
+            },
+            {
+                "alias": "discourse/@KillerByte",
+                "fast": 0,
+                "slow": 26
+            },
+            {
+                "alias": "discourse/@Joe",
+                "fast": 0,
+                "slow": 26
+            },
+            {
+                "alias": "discourse/@williamr",
+                "fast": 0,
+                "slow": 25
+            },
+            {
+                "alias": "discourse/@ultraschuppi",
+                "fast": 50,
+                "slow": 74
+            },
+            {
+                "alias": "discourse/@ChristG87",
+                "fast": 2,
+                "slow": 28
+            },
+            {
+                "alias": "discourse/@Q_Q_GoAway",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discourse/@KentonPrescott",
+                "fast": 70,
+                "slow": 94
+            },
+            {
+                "alias": "discourse/@reuptaken",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discourse/@Jason",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discourse/@YoHey",
+                "fast": 0,
+                "slow": 24
+            },
+            {
+                "alias": "discourse/@Sivante",
+                "fast": 4,
+                "slow": 28
+            },
+            {
+                "alias": "discourse/@liamzebedee",
+                "fast": 0,
+                "slow": 22
+            },
+            {
+                "alias": "discourse/@OneBiteLawnOrder",
+                "fast": 13,
+                "slow": 37
+            },
+            {
+                "alias": "discourse/@alexfisher",
+                "fast": 0,
+                "slow": 22
+            },
+            {
+                "alias": "discourse/@Ralph_Miclat",
+                "fast": 2,
+                "slow": 25
+            },
+            {
+                "alias": "discourse/@sg13wp",
+                "fast": 79,
+                "slow": 100
+            },
+            {
+                "alias": "discourse/@neozaru",
+                "fast": 23,
+                "slow": 45
+            },
+            {
+                "alias": "discourse/@niemerg",
+                "fast": 0,
+                "slow": 21
+            },
+            {
+                "alias": "discourse/@Fundament_Group",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discourse/@eddylazzarin",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discourse/@hbarcelos",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discourse/@cazala",
+                "fast": 12,
+                "slow": 34
+            },
+            {
+                "alias": "discourse/@hyman",
+                "fast": 0,
+                "slow": 19
+            },
+            {
+                "alias": "discourse/@Derek98",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discourse/@ash_jl",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discourse/@Thebez",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discourse/@Nic_Parsons",
+                "fast": 0,
+                "slow": 18
+            },
+            {
+                "alias": "discourse/@rohanp",
+                "fast": 4,
+                "slow": 22
+            },
+            {
+                "alias": "discourse/@internautderek",
+                "fast": 0,
+                "slow": 17
+            },
+            {
+                "alias": "discourse/@CF_001",
+                "fast": 1,
+                "slow": 18
+            },
+            {
+                "alias": "discourse/@NightIvy15",
+                "fast": 0,
+                "slow": 20
+            },
+            {
+                "alias": "discourse/@JJ_Alio",
+                "fast": 0,
+                "slow": 16
+            },
+            {
+                "alias": "discourse/@revonoc",
+                "fast": 0,
+                "slow": 15
+            },
+            {
+                "alias": "discourse/@Muchacho",
+                "fast": 0,
+                "slow": 15
+            },
+            {
+                "alias": "discourse/@chris",
+                "fast": 0,
+                "slow": 13
+            },
+            {
+                "alias": "discourse/@saitodaiplease",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@samparsky",
+                "fast": 1,
+                "slow": 16
+            },
+            {
+                "alias": "discourse/@rleshner",
+                "fast": 2,
+                "slow": 16
+            },
+            {
+                "alias": "discourse/@Cynthiaa",
+                "fast": 0,
+                "slow": 12
+            },
+            {
+                "alias": "discourse/@Nick",
+                "fast": 0,
+                "slow": 11
+            },
+            {
+                "alias": "discourse/@Paris",
+                "fast": 0,
+                "slow": 11
+            },
+            {
+                "alias": "discourse/@sav",
+                "fast": 0,
+                "slow": 11
+            },
+            {
+                "alias": "discourse/@PlusBit",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discourse/@marcuswin",
+                "fast": 0,
+                "slow": 10
+            },
+            {
+                "alias": "discourse/@ADPriceless",
+                "fast": 0,
+                "slow": 9
+            },
+            {
+                "alias": "discourse/@Samyak",
+                "fast": 1,
+                "slow": 10
+            },
+            {
+                "alias": "discourse/@SwolyDiver",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@0xEffAlt",
+                "fast": 3,
+                "slow": 12
+            },
+            {
+                "alias": "discourse/@balance",
+                "fast": 0,
+                "slow": 8
+            },
+            {
+                "alias": "discourse/@adamdossa",
+                "fast": 0,
+                "slow": 7
+            },
+            {
+                "alias": "discourse/@NOW_Mind_and_Body",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discourse/@ccc",
+                "fast": 0,
+                "slow": 6
+            },
+            {
+                "alias": "discourse/@Ironrand",
+                "fast": 0,
+                "slow": 5
+            },
+            {
+                "alias": "discourse/@ekryski",
+                "fast": 0,
+                "slow": 5
+            },
+            {
+                "alias": "discourse/@Asaf_Shachaf",
+                "fast": 1,
+                "slow": 7
+            },
+            {
+                "alias": "discourse/@Memelord",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discourse/@Fahed_Correa",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discourse/@anonymoose",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discourse/@BlueSky",
+                "fast": 0,
+                "slow": 3
+            },
+            {
+                "alias": "discourse/@execute007",
+                "fast": 0,
+                "slow": 3
+            },
+            {
+                "alias": "discourse/@John_Galt",
+                "fast": 0,
+                "slow": 3
+            },
+            {
+                "alias": "discourse/@PatrickOD",
+                "fast": 0,
+                "slow": 3
+            },
+            {
+                "alias": "discourse/@W34Z3L",
+                "fast": 0,
+                "slow": 4
+            },
+            {
+                "alias": "discourse/@Alfablok",
+                "fast": 0,
+                "slow": 3
+            },
+            {
+                "alias": "discourse/@martinkrung",
+                "fast": 0,
+                "slow": 2
+            },
+            {
+                "alias": "discourse/@Brian_Yun",
+                "fast": 0,
+                "slow": 2
+            },
+            {
+                "alias": "discourse/@sneg55",
+                "fast": 0,
+                "slow": 2
+            },
+            {
+                "alias": "discourse/@sirhill",
+                "fast": 0,
+                "slow": 1
+            },
+            {
+                "alias": "discourse/@Mark0",
+                "fast": 0,
+                "slow": 1
+            },
+            {
+                "alias": "discourse/@ApoiioCreed",
+                "fast": 0,
+                "slow": 1
+            },
+            {
+                "alias": "discourse/@mohsenghajar",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Richard",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@eric",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@system",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Adam",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@AjazRubz",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Alexander",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Blackswan",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Blegend",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@BlockEnthusiast",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Bob_Swift",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Bones972",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Bri174",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Chip",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Clayton_Roche",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Cocoricos",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Darius",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@DoZa",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Fridaymark",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Galaxy",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Ipman84",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@JaVilletes",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Jagc",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@James_Zain",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Kevin_Thomas",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@KrisJ_Official",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Ksok",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Long_Field",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Luposian1",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Max-Desire_LOUA_H",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Monico",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Niles",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@PhABC",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Piercarlo_Maia",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Rey",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Svante",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Swaraj_Nanda",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Tester0",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@Vihren_Petrov",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@aaron_sinek",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@abdfht",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@abhishek",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@agonyAunt",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@amanusk",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@angelo",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@c8y7pis",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@chewie0",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@chrissatti",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@didi",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@dr_dent18",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@eclips",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@fabiopalumbo",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@fjw",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@flip_flap_flop",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@flygoing",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@giraffecum",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@hanzo",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@intent",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@lp662lp662",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@makewhole",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@milkmilk2",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@nrtxrmnd",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@oil",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@oldschool",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@omar",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@openforbusiness",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@proofplum",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@ryno8888",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@spounds",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@tomuky",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@tshanky",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@tuckertranslator",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@vaultvictim5288",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@vishalhkothari",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@weird_things",
+                "fast": 0,
+                "slow": 0
+            },
+            {
+                "alias": "discourse/@zao",
+                "fast": 0,
+                "slow": 0
+            }
+        ]
     }
 ]
