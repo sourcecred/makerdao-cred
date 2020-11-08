@@ -1,13 +1,13 @@
 {
   "name": "template-instance",
-  "version": "0.1.0",
+  "version": "0.7.2",
   "description": "A template repo for creating a SourceCred instance",
   "repository": "git@github.com:sourcecred/template-instance.git",
   "author": "SourceCred Team <contact@sourcecred.io>",
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "sourcecred": "0.7.1"
+    "sourcecred": "0.7.2"
   },
   "scripts": {
     "clean": "rimraf cache site",
