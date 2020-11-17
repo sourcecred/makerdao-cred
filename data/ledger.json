@@ -1577,3 +1577,4 @@
 {"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000KlVcLyAr2i4ZWd4qYTwo8A\u0000","aliases":[],"id":"KlVcLyAr2i4ZWd4qYTwo8A","name":"Cryptouf","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1605647239649,"uuid":"xDDCeFWU5YGZLghvOMWpBw","version":"1"}
 {"action":{"alias":{"address":"N\u0000sourcecred\u0000discourse\u0000user\u0000https://forum.makerdao.com\u0000Cryptouf\u0000","description":"discourse/[@Cryptouf](https://forum.makerdao.com/u/Cryptouf/)"},"identityId":"KlVcLyAr2i4ZWd4qYTwo8A","type":"ADD_ALIAS"},"ledgerTimestamp":1605647239649,"uuid":"vLbw8eMcEbxBqWYU9Td9xQ","version":"1"}
 {"action":{"identityId":"Y53hbAqDupTwKQlDQRaY1g","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1605648650044,"uuid":"B1WCpeIRZulFzcZFgsPAKQ","version":"1"}
+{"action":{"identityId":"DQ8MvjOmILa8f8Z28YFZbg","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1605648851216,"uuid":"W3rPw55JNIXRmFDfqVVWHQ","version":"1"}
