@@ -1,6 +1,7 @@
 [
     {
         "autoActivateOnIdentityCreation": true,
+        "id": "zgXd1tzQUNYFZwQu4dCe3A",
         "name": "sourcecred",
         "periods": [
             {
@@ -9,4 +10,4 @@
             }
         ]
     }
-] 
+]
