@@ -2612,3 +2612,9 @@
 {"action":{"alias":{"address":"N\u0000sourcecred\u0000discourse\u0000user\u0000https://forum.makerdao.com\u0000Cmo\u0000","description":"discourse/[@Cmo](https://forum.makerdao.com/u/Cmo/)"},"identityId":"kX4s73jBgxwq8F9Aqpck4w","type":"ADD_ALIAS"},"ledgerTimestamp":1620794683506,"uuid":"Nb4CLodAJC3ivF5rOQzH8A","version":"1"}
 {"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000NY6XVoZgPzgRHeV8W294uQ\u0000","aliases":[],"id":"NY6XVoZgPzgRHeV8W294uQ","name":"Doo-Nam","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1620794683507,"uuid":"azrsaHNmeO3BRqQpDMYNfQ","version":"1"}
 {"action":{"alias":{"address":"N\u0000sourcecred\u0000discourse\u0000user\u0000https://forum.makerdao.com\u0000Doo_Nam\u0000","description":"discourse/[@Doo_Nam](https://forum.makerdao.com/u/Doo_Nam/)"},"identityId":"NY6XVoZgPzgRHeV8W294uQ","type":"ADD_ALIAS"},"ledgerTimestamp":1620794683507,"uuid":"GdF2vVIri9z8dbJl5XgOIw","version":"1"}
+{"action":{"identityId":"MXqB46xWaYDQwY9aYs0nHQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796057300,"uuid":"dkdkJQP5jMZo2etqs9IG2A","version":"1"}
+{"action":{"identityId":"LGAvzqZs1sMZZohrLIJ0aA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796069776,"uuid":"11xZmZiZDoMdgQdUwNLdTQ","version":"1"}
+{"action":{"identityId":"kgNMC9jVk9mvQp79JBW77w","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796077482,"uuid":"sYy39hLP3zZ6CYlREEZ9HA","version":"1"}
+{"action":{"identityId":"4ZxCx922d0ZuNG02iNlC0w","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796088455,"uuid":"skOLGi57n2nC1jyP95oZVA","version":"1"}
+{"action":{"identityId":"nqonb5KX2ojkNZkK2sPq0w","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796097906,"uuid":"p8zkoxO57b23V3gmt2EWWg","version":"1"}
+{"action":{"identityId":"XBAlUVgBlrlK1UYsl73NHA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796104525,"uuid":"n0fWBmNLeMan8gKWkBYgjw","version":"1"}
