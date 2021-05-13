@@ -2618,3 +2618,5 @@
 {"action":{"identityId":"4ZxCx922d0ZuNG02iNlC0w","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796088455,"uuid":"skOLGi57n2nC1jyP95oZVA","version":"1"}
 {"action":{"identityId":"nqonb5KX2ojkNZkK2sPq0w","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796097906,"uuid":"p8zkoxO57b23V3gmt2EWWg","version":"1"}
 {"action":{"identityId":"XBAlUVgBlrlK1UYsl73NHA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1620796104525,"uuid":"n0fWBmNLeMan8gKWkBYgjw","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u00005mK8FeZlXt9p9kb2JEDjFg\u0000","aliases":[],"id":"5mK8FeZlXt9p9kb2JEDjFg","name":"jurajpetrik","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1620869373240,"uuid":"24WzXwRw3y6NSXVpalQDFg","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discourse\u0000user\u0000https://forum.makerdao.com\u0000jurajpetrik\u0000","description":"discourse/[@jurajpetrik](https://forum.makerdao.com/u/jurajpetrik/)"},"identityId":"5mK8FeZlXt9p9kb2JEDjFg","type":"ADD_ALIAS"},"ledgerTimestamp":1620869373240,"uuid":"5aIA3VraxjyZxQ7teN44Yg","version":"1"}
