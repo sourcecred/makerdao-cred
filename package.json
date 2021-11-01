@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
-    "dotenv-cli": "^4.0.0"
+    "dotenv-cli": "^4.1.0"
   }
 }
