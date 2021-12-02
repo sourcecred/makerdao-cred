@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "sourcecred": "^0.9.3"
+    "sourcecred": "^0.10.2"
   },
   "scripts": {
     "clean": "rimraf cache site",
