@@ -20,7 +20,7 @@ jobs:
         uses: actions/cache@v2.1.4
         with:
           path: '**/cache'
-          key: SC-${{ runner.os }}-${{ hashFiles('**/config.json', '**/sourcecred.json', '**/yarn.lock') }}
+          key: SC-${{ runner.os }}-v2-${{ hashFiles('**/config.json', '**/sourcecred.json', '**/yarn.lock') }}
 
       - name: Install Packages 🔧
         run: yarn --frozen-lockfile
