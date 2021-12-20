@@ -28,7 +28,7 @@ jobs:
       - name: Load Data and Compute Cred 🧮
         run: yarn sourcecred go
         env:
-          SOURCECRED_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SOURCECRED_GITHUB_TOKEN: ${{ secrets.SOURCECRED_GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
 
       - name: Generate Optional Analysis Files
@@ -37,12 +37,12 @@ jobs:
       - name: Generate Frontend 🏗
         run: |
           yarn sourcecred site
-          rm -rf ./site/{output,data,config,sourcecred.json}
-          cp -r ./{output,data,config,sourcecred.json,package.json,yarn.lock} ./site/
+          rm -rf ./site/{output,data,config,sourcecred.json,package.json,yarn.lock,cache,.gitignore}
+          cp -r ./{output,data,config,sourcecred.json,package.json,yarn.lock,cache,.gitignore} ./site/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SOURCECRED_GITHUB_TOKEN }}
           branch: gh-pages
           folder: site
