@@ -10,6 +10,10 @@ on:
       # PRSs created from grain-trigger-* branches are targeted
       # on their immediate base branches, as opposed to master
       - "grain-trigger-*"
+  # Adds a button to manually trigger a distribution attempt.
+  # If grain has been distributed for the most recently completed week
+  # the task will be idempotent.
+  workflow_dispatch:
 
 jobs:
   distribute-grain:
@@ -22,7 +26,15 @@ jobs:
           yarn --frozen-lockfile
 
       - name: Load Data and Compute Cred 🧮
-        run: yarn sourcecred go
+        run: |
+          yarn sourcecred load
+          yarn sourcecred graph
+          pwd
+          ls output
+          ls output/graphs
+          ls output/graphs/sourcecred
+          ls output/graphs/sourcecred/discourse
+          yarn sourcecred credrank
         env:
           SOURCECRED_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
