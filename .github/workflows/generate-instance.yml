@@ -40,7 +40,7 @@ jobs:
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
 
       - name: Generate Optional Analysis Files
-        run: yarn sourcecred analysis
+        run: yarn sourcecred analysis -n
 
       - name: Generate Frontend 🏗
         run: |
