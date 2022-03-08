@@ -12,4 +12,4 @@ jobs:
     
     steps:
     - name: Generate Payments CSV
-      run: node ./generateCsv.js
+      run: node ./.github/workflows/generateCsv.js
