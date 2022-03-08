@@ -1,0 +1,15 @@
+name: Generate Payments CSV
+on:
+  workflow_dispatch:
+    inputs:
+      threshold:
+        required: true
+        description: Minimum amount of DAI accrued per user
+
+jobs:
+  generate-csv:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Generate Payments CSV
+      run: node ./generateCsv.js
