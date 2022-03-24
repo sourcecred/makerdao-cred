@@ -27,14 +27,7 @@ jobs:
 
       - name: Load Data and Compute Cred 🧮
         run: |
-          yarn sourcecred load
-          yarn sourcecred graph
-          pwd
-          ls output
-          ls output/graphs
-          ls output/graphs/sourcecred
-          ls output/graphs/sourcecred/discourse
-          yarn sourcecred credrank
+          yarn sourcecred go
         env:
           SOURCECRED_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
