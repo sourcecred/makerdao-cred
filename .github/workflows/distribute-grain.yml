@@ -67,4 +67,4 @@ jobs:
           author: credbot <credbot@users.noreply.github.com>
           commit-message: update calculated ledger
           title: ${{ env.PULL_REQUEST_TITLE }}
-          body: ${{ steps.pr_details.outputs.pr_body }}
+          body: "New distribution"
