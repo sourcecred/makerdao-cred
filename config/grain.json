@@ -1,13 +1,13 @@
 {
   "allocationPolicies": [
     {
-      "budget": "3750",
+      "budget": "1875",
       "discount": 0.6,
       "policyType": "RECENT",
       "exclusions": []
     },
     {
-      "budget": "1250",
+      "budget": "625",
       "discount": 0.25,
       "policyType": "RECENT",
       "exclusions": []
