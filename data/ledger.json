@@ -5378,3 +5378,5 @@
 {"action":{"identityId":"3s0oPknm5KdBNo5vHq3MfA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1655938424446,"uuid":"B07y9pJpPqadOTYcKgaoHw","version":"1"}
 {"action":{"identityId":"zuBC3aagM9dQQJdmYxh8OQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1655938451838,"uuid":"ZA9Y46LjN74a6yl7pH2S2A","version":"1"}
 {"action":{"identityId":"UySlVYvCmbKp84NEcavhOw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1655938488785,"uuid":"pqaXYRRpwWZQH5cog9ODGw","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u00003Zwmbt5ZAddErav8HKs41g\u0000","aliases":[],"id":"3Zwmbt5ZAddErav8HKs41g","name":"bubbleburst","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1656124835719,"uuid":"yuNTYXavd0nRGde07TVBhw","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discourse\u0000user\u0000https://forum.makerdao.com\u0000bubbleburst\u0000","description":"discourse/[@bubbleburst](https://forum.makerdao.com/u/bubbleburst/)"},"identityId":"3Zwmbt5ZAddErav8HKs41g","type":"ADD_ALIAS"},"ledgerTimestamp":1656124835720,"uuid":"3726EM62jSKU0ckXd22nYg","version":"1"}
