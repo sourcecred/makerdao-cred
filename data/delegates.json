@@ -98,13 +98,6 @@
     "credPerPost": 0.3
   },
   {
-    "delegate": "Jf123",
-    "timestamp": 1654387200000,
-    "cred": 0,
-    "posts": 0,
-    "credPerPost": 0
-  },
-  {
     "delegate": "clmns",
     "timestamp": 1654387200000,
     "cred": 0,
@@ -210,13 +203,6 @@
     "credPerPost": 10.2
   },
   {
-    "delegate": "Jf123",
-    "timestamp": 1654992000000,
-    "cred": 6,
-    "posts": 1,
-    "credPerPost": 5.7
-  },
-  {
     "delegate": "clmns",
     "timestamp": 1654992000000,
     "cred": 0,
@@ -320,13 +306,6 @@
     "cred": 28,
     "posts": 5,
     "credPerPost": 5.6
-  },
-  {
-    "delegate": "Jf123",
-    "timestamp": 1655596800000,
-    "cred": 0,
-    "posts": 0,
-    "credPerPost": 0
   },
   {
     "delegate": "clmns",
