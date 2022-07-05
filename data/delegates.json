@@ -21,13 +21,6 @@
     "credPerPost": 9.1
   },
   {
-    "delegate": "monet-supply",
-    "timestamp": 1654387200000,
-    "cred": 33,
-    "posts": 2,
-    "credPerPost": 16.4
-  },
-  {
     "delegate": "MakerMan",
     "timestamp": 1654387200000,
     "cred": 26,
@@ -126,13 +119,6 @@
     "credPerPost": 18.9
   },
   {
-    "delegate": "monet-supply",
-    "timestamp": 1654992000000,
-    "cred": 62,
-    "posts": 2,
-    "credPerPost": 31.2
-  },
-  {
     "delegate": "MakerMan",
     "timestamp": 1654992000000,
     "cred": 221,
@@ -225,13 +211,6 @@
   },
   {
     "delegate": "twblack88",
-    "timestamp": 1655596800000,
-    "cred": 0,
-    "posts": 0,
-    "credPerPost": 0
-  },
-  {
-    "delegate": "monet-supply",
     "timestamp": 1655596800000,
     "cred": 0,
     "posts": 0,
@@ -334,13 +313,6 @@
     "cred": 0,
     "posts": 0,
     "credPerPost": 0
-  },
-  {
-    "delegate": "monet-supply",
-    "timestamp": 1656201600000,
-    "cred": 583,
-    "posts": 14,
-    "credPerPost": 41.6
   },
   {
     "delegate": "MakerMan",
