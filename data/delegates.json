@@ -313,5 +313,117 @@
     "cred": 0,
     "posts": 0,
     "credPerPost": 0
+  },
+  {
+    "delegate": "ElProgreso",
+    "timestamp": 1656201600000,
+    "cred": 212,
+    "posts": 14,
+    "credPerPost": 15.2
+  },
+  {
+    "delegate": "ultraschuppi",
+    "timestamp": 1656201600000,
+    "cred": 208,
+    "posts": 11,
+    "credPerPost": 18.9
+  },
+  {
+    "delegate": "twblack88",
+    "timestamp": 1656201600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "monet-supply",
+    "timestamp": 1656201600000,
+    "cred": 583,
+    "posts": 14,
+    "credPerPost": 41.6
+  },
+  {
+    "delegate": "MakerMan",
+    "timestamp": 1656201600000,
+    "cred": 504,
+    "posts": 2,
+    "credPerPost": 252.1
+  },
+  {
+    "delegate": "Hasu",
+    "timestamp": 1656201600000,
+    "cred": 424,
+    "posts": 3,
+    "credPerPost": 141.3
+  },
+  {
+    "delegate": "ACREinvest",
+    "timestamp": 1656201600000,
+    "cred": 215,
+    "posts": 18,
+    "credPerPost": 11.9
+  },
+  {
+    "delegate": "inkymaze",
+    "timestamp": 1656201600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "JustinCase",
+    "timestamp": 1656201600000,
+    "cred": 65,
+    "posts": 4,
+    "credPerPost": 16.3
+  },
+  {
+    "delegate": "GFXlabs",
+    "timestamp": 1656201600000,
+    "cred": 7,
+    "posts": 1,
+    "credPerPost": 7.5
+  },
+  {
+    "delegate": "Doo-Nam",
+    "timestamp": 1656201600000,
+    "cred": 634,
+    "posts": 23,
+    "credPerPost": 27.6
+  },
+  {
+    "delegate": "rspa",
+    "timestamp": 1656201600000,
+    "cred": 65,
+    "posts": 4,
+    "credPerPost": 16.2
+  },
+  {
+    "delegate": "blockchainatcolumbia",
+    "timestamp": 1656201600000,
+    "cred": 6,
+    "posts": 1,
+    "credPerPost": 6
+  },
+  {
+    "delegate": "Juanbug",
+    "timestamp": 1656201600000,
+    "cred": 41,
+    "posts": 2,
+    "credPerPost": 20.3
+  },
+  {
+    "delegate": "Jf123",
+    "timestamp": 1656201600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "clmns",
+    "timestamp": 1656201600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   }
 ]
