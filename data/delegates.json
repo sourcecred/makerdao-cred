@@ -593,5 +593,124 @@
     "cred": 0,
     "posts": 0,
     "credPerPost": 0
+  },
+  {
+    "delegate": "ElProgreso",
+    "timestamp": 1657411200000,
+    "cred": 475,
+    "posts": 15,
+    "credPerPost": 31.7
+  },
+  {
+    "delegate": "ultraschuppi",
+    "timestamp": 1657411200000,
+    "cred": 390,
+    "posts": 19,
+    "credPerPost": 20.5
+  },
+  {
+    "delegate": "twblack88",
+    "timestamp": 1657411200000,
+    "cred": 90,
+    "posts": 9,
+    "credPerPost": 10
+  },
+  {
+    "delegate": "MakerMan",
+    "timestamp": 1657411200000,
+    "cred": 235,
+    "posts": 11,
+    "credPerPost": 21.4
+  },
+  {
+    "delegate": "Hasu",
+    "timestamp": 1657411200000,
+    "cred": 347,
+    "posts": 3,
+    "credPerPost": 115.6
+  },
+  {
+    "delegate": "ACREinvest",
+    "timestamp": 1657411200000,
+    "cred": 113,
+    "posts": 6,
+    "credPerPost": 18.8
+  },
+  {
+    "delegate": "inkymaze",
+    "timestamp": 1657411200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "JustinCase",
+    "timestamp": 1657411200000,
+    "cred": 12,
+    "posts": 2,
+    "credPerPost": 6.2
+  },
+  {
+    "delegate": "GFXlabs",
+    "timestamp": 1657411200000,
+    "cred": 33,
+    "posts": 2,
+    "credPerPost": 16.7
+  },
+  {
+    "delegate": "Doo-Nam",
+    "timestamp": 1657411200000,
+    "cred": 575,
+    "posts": 44,
+    "credPerPost": 13.1
+  },
+  {
+    "delegate": "rspa",
+    "timestamp": 1657411200000,
+    "cred": 33,
+    "posts": 5,
+    "credPerPost": 6.6
+  },
+  {
+    "delegate": "blockchainatcolumbia",
+    "timestamp": 1657411200000,
+    "cred": 15,
+    "posts": 1,
+    "credPerPost": 14.6
+  },
+  {
+    "delegate": "Juanbug",
+    "timestamp": 1657411200000,
+    "cred": 29,
+    "posts": 2,
+    "credPerPost": 14.6
+  },
+  {
+    "delegate": "clmns",
+    "timestamp": 1657411200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "ChrisBlec",
+    "timestamp": 1657411200000,
+    "cred": 417,
+    "posts": 23,
+    "credPerPost": 18.1
+  },
+  {
+    "delegate": "GovernanceHouse",
+    "timestamp": 1657411200000,
+    "cred": 12,
+    "posts": 3,
+    "credPerPost": 4
+  },
+  {
+    "delegate": "sm-UC",
+    "timestamp": 1657411200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   }
 ]
