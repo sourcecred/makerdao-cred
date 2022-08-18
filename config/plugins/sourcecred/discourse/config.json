@@ -2,13 +2,11 @@
   "serverUrl": "https://forum.makerdao.com",
   "weights": {
     "categoryWeights": {
-     "5": 1,
-     "36": 1
+     "41//Miscellaneous": 0.25,
+     "68//Resources": 0.75
     },
     "defaultCategoryWeight": 1,
     "defaultTagWeight": 1,
-    "tagWeights": {
-      "sourcecred": 1
-    }
+    "tagWeights": {}
   }
 }
