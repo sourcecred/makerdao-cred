@@ -2,14 +2,14 @@ name: Distribute Grain
 on:
   # A new Cred interval every Sunday. We'll distribute Grain 5 minutes
   # after the new interval
-  schedule:
-    - cron: 5 0 * * 0 # 00:05 UTC, 16:05 PST
-  push:
-    branches:
+#   schedule:
+#     - cron: 5 0 * * 0 # 00:05 UTC, 16:05 PST
+#   push:
+#     branches:
       # allows us to test this workflow, or manually generate distributions
       # PRSs created from grain-trigger-* branches are targeted
       # on their immediate base branches, as opposed to master
-      - "grain-trigger-*"
+#       - "grain-trigger-*"
   # Adds a button to manually trigger a distribution attempt.
   # If grain has been distributed for the most recently completed week
   # the task will be idempotent.
