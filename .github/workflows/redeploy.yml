@@ -1,0 +1,14 @@
+name: Redeploy Site
+on:
+  workflow_dispatch:
+
+jobs:
+  Redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.4.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: site
