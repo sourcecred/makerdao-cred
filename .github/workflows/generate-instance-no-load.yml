@@ -1,4 +1,4 @@
-name: Generate Cred Instance
+name: Generate Instance - No Load
 on:
 #   # Trigger on merging to master.
 #   push:
