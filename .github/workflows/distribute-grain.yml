@@ -25,6 +25,7 @@ jobs:
 
       - name: Install Packages 🔧
         run: |
+          node -v
           yarn --frozen-lockfile
 
       - name: Load Data and Compute Cred 🧮
