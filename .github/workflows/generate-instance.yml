@@ -26,7 +26,7 @@ jobs:
           key: SC-${{ runner.os }}-v2-${{ hashFiles('**/config.json', '**/sourcecred.json', '**/yarn.lock') }}
 
       - name: Install Packages 🔧
-        run: yarn --frozen-lockfile
+        run: yarn
 
       - name: Load Data and Compute Cred 🧮
         run: |
