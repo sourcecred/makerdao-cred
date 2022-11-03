@@ -2437,24 +2437,73 @@
   },
   {
     "delegate": "ElProgreso",
+    "timestamp": 1665273600000,
+    "cred": 77,
+    "posts": 13,
+    "credPerPost": 5.9
+  },
+  {
+    "delegate": "ElProgreso",
     "timestamp": 1665878400000,
-    "cred": 49,
+    "cred": 51,
     "posts": 4,
-    "credPerPost": 12.2
+    "credPerPost": 12.6
+  },
+  {
+    "delegate": "ElProgreso",
+    "timestamp": 1666483200000,
+    "cred": 57,
+    "posts": 7,
+    "credPerPost": 8.2
+  },
+  {
+    "delegate": "ultraschuppi",
+    "timestamp": 1665273600000,
+    "cred": 151,
+    "posts": 9,
+    "credPerPost": 16.8
   },
   {
     "delegate": "ultraschuppi",
     "timestamp": 1665878400000,
-    "cred": 80,
+    "cred": 91,
     "posts": 2,
-    "credPerPost": 40.1
+    "credPerPost": 45.6
+  },
+  {
+    "delegate": "ultraschuppi",
+    "timestamp": 1666483200000,
+    "cred": 11,
+    "posts": 3,
+    "credPerPost": 3.6
+  },
+  {
+    "delegate": "twblack88",
+    "timestamp": 1665273600000,
+    "cred": 19,
+    "posts": 6,
+    "credPerPost": 3.2
   },
   {
     "delegate": "twblack88",
     "timestamp": 1665878400000,
     "cred": 6,
     "posts": 2,
-    "credPerPost": 3.1
+    "credPerPost": 3.2
+  },
+  {
+    "delegate": "twblack88",
+    "timestamp": 1666483200000,
+    "cred": 30,
+    "posts": 4,
+    "credPerPost": 7.4
+  },
+  {
+    "delegate": "Hasu",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   },
   {
     "delegate": "Hasu",
@@ -2464,11 +2513,39 @@
     "credPerPost": 0
   },
   {
+    "delegate": "Hasu",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "ACREinvest",
+    "timestamp": 1665273600000,
+    "cred": 48,
+    "posts": 4,
+    "credPerPost": 12
+  },
+  {
     "delegate": "ACREinvest",
     "timestamp": 1665878400000,
-    "cred": 40,
+    "cred": 44,
     "posts": 5,
-    "credPerPost": 8
+    "credPerPost": 8.7
+  },
+  {
+    "delegate": "ACREinvest",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "inkymaze",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   },
   {
     "delegate": "inkymaze",
@@ -2478,6 +2555,20 @@
     "credPerPost": 0
   },
   {
+    "delegate": "inkymaze",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "JustinCase",
+    "timestamp": 1665273600000,
+    "cred": 39,
+    "posts": 3,
+    "credPerPost": 13
+  },
+  {
     "delegate": "JustinCase",
     "timestamp": 1665878400000,
     "cred": 0,
@@ -2485,25 +2576,81 @@
     "credPerPost": 0.2
   },
   {
+    "delegate": "JustinCase",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "GFXlabs",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 1,
+    "credPerPost": 0.4
+  },
+  {
     "delegate": "GFXlabs",
     "timestamp": 1665878400000,
     "cred": 6,
     "posts": 3,
-    "credPerPost": 2
+    "credPerPost": 2.1
+  },
+  {
+    "delegate": "GFXlabs",
+    "timestamp": 1666483200000,
+    "cred": 87,
+    "posts": 5,
+    "credPerPost": 17.4
+  },
+  {
+    "delegate": "Doo-StableNode",
+    "timestamp": 1665273600000,
+    "cred": 18,
+    "posts": 5,
+    "credPerPost": 3.5
   },
   {
     "delegate": "Doo-StableNode",
     "timestamp": 1665878400000,
     "cred": 1,
     "posts": 2,
-    "credPerPost": 0.3
+    "credPerPost": 0.5
+  },
+  {
+    "delegate": "Doo-StableNode",
+    "timestamp": 1666483200000,
+    "cred": 99,
+    "posts": 10,
+    "credPerPost": 9.9
+  },
+  {
+    "delegate": "rspa",
+    "timestamp": 1665273600000,
+    "cred": 78,
+    "posts": 5,
+    "credPerPost": 15.7
   },
   {
     "delegate": "rspa",
     "timestamp": 1665878400000,
-    "cred": 31,
+    "cred": 39,
     "posts": 4,
-    "credPerPost": 7.7
+    "credPerPost": 9.7
+  },
+  {
+    "delegate": "rspa",
+    "timestamp": 1666483200000,
+    "cred": 10,
+    "posts": 4,
+    "credPerPost": 2.6
+  },
+  {
+    "delegate": "blockchainatcolumbia",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   },
   {
     "delegate": "blockchainatcolumbia",
@@ -2513,11 +2660,39 @@
     "credPerPost": 0.2
   },
   {
+    "delegate": "blockchainatcolumbia",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "Juanbug",
+    "timestamp": 1665273600000,
+    "cred": 34,
+    "posts": 5,
+    "credPerPost": 6.8
+  },
+  {
     "delegate": "Juanbug",
     "timestamp": 1665878400000,
     "cred": 0,
     "posts": 1,
     "credPerPost": 0.3
+  },
+  {
+    "delegate": "Juanbug",
+    "timestamp": 1666483200000,
+    "cred": 1,
+    "posts": 2,
+    "credPerPost": 0.3
+  },
+  {
+    "delegate": "clmns",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   },
   {
     "delegate": "clmns",
@@ -2527,15 +2702,57 @@
     "credPerPost": 0
   },
   {
+    "delegate": "clmns",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "ChrisBlec",
+    "timestamp": 1665273600000,
+    "cred": 11,
+    "posts": 1,
+    "credPerPost": 10.7
+  },
+  {
     "delegate": "ChrisBlec",
     "timestamp": 1665878400000,
     "cred": 9,
     "posts": 2,
-    "credPerPost": 4.5
+    "credPerPost": 4.6
+  },
+  {
+    "delegate": "ChrisBlec",
+    "timestamp": 1666483200000,
+    "cred": 22,
+    "posts": 2,
+    "credPerPost": 10.9
+  },
+  {
+    "delegate": "luca-pro",
+    "timestamp": 1665273600000,
+    "cred": 31,
+    "posts": 2,
+    "credPerPost": 15.4
   },
   {
     "delegate": "luca-pro",
     "timestamp": 1665878400000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "luca-pro",
+    "timestamp": 1666483200000,
+    "cred": 48,
+    "posts": 3,
+    "credPerPost": 16
+  },
+  {
+    "delegate": "sm-UC",
+    "timestamp": 1665273600000,
     "cred": 0,
     "posts": 0,
     "credPerPost": 0
@@ -2548,6 +2765,20 @@
     "credPerPost": 0
   },
   {
+    "delegate": "sm-UC",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "pvl",
+    "timestamp": 1665273600000,
+    "cred": 19,
+    "posts": 2,
+    "credPerPost": 9.6
+  },
+  {
     "delegate": "pvl",
     "timestamp": 1665878400000,
     "cred": 3,
@@ -2555,18 +2786,60 @@
     "credPerPost": 0.2
   },
   {
+    "delegate": "pvl",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 1,
+    "credPerPost": 0.2
+  },
+  {
+    "delegate": "CodeKnight",
+    "timestamp": 1665273600000,
+    "cred": 25,
+    "posts": 4,
+    "credPerPost": 6.4
+  },
+  {
     "delegate": "CodeKnight",
     "timestamp": 1665878400000,
-    "cred": 29,
+    "cred": 30,
     "posts": 3,
-    "credPerPost": 9.8
+    "credPerPost": 10.1
+  },
+  {
+    "delegate": "CodeKnight",
+    "timestamp": 1666483200000,
+    "cred": 48,
+    "posts": 9,
+    "credPerPost": 5.4
+  },
+  {
+    "delegate": "Matt-NZ",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 2,
+    "credPerPost": 0.1
   },
   {
     "delegate": "Matt-NZ",
     "timestamp": 1665878400000,
-    "cred": 29,
+    "cred": 34,
     "posts": 2,
-    "credPerPost": 14.3
+    "credPerPost": 16.9
+  },
+  {
+    "delegate": "Matt-NZ",
+    "timestamp": 1666483200000,
+    "cred": 14,
+    "posts": 3,
+    "credPerPost": 4.7
+  },
+  {
+    "delegate": "yano",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   },
   {
     "delegate": "yano",
@@ -2576,15 +2849,71 @@
     "credPerPost": 0
   },
   {
+    "delegate": "yano",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "TRUEMAKER",
+    "timestamp": 1665273600000,
+    "cred": 65,
+    "posts": 7,
+    "credPerPost": 9.3
+  },
+  {
     "delegate": "TRUEMAKER",
     "timestamp": 1665878400000,
-    "cred": 26,
+    "cred": 28,
     "posts": 6,
-    "credPerPost": 4.4
+    "credPerPost": 4.7
+  },
+  {
+    "delegate": "TRUEMAKER",
+    "timestamp": 1666483200000,
+    "cred": 8,
+    "posts": 4,
+    "credPerPost": 2
+  },
+  {
+    "delegate": "mhonkasalo",
+    "timestamp": 1665273600000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
   },
   {
     "delegate": "mhonkasalo",
     "timestamp": 1665878400000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "mhonkasalo",
+    "timestamp": 1666483200000,
+    "cred": 0,
+    "posts": 0,
+    "credPerPost": 0
+  },
+  {
+    "delegate": "nonstopTheo",
+    "timestamp": 1665273600000,
+    "cred": 63,
+    "posts": 4,
+    "credPerPost": 15.9
+  },
+  {
+    "delegate": "nonstopTheo",
+    "timestamp": 1665878400000,
+    "cred": 16,
+    "posts": 6,
+    "credPerPost": 2.6
+  },
+  {
+    "delegate": "nonstopTheo",
+    "timestamp": 1666483200000,
     "cred": 0,
     "posts": 0,
     "credPerPost": 0
