@@ -5978,3 +5978,4 @@
 {"action":{"amount":"52000000000000000000","from":"VV9VHVdX9AeN5NaF1HJXfg","memo":null,"to":"zJ1wFJh6cgT8QOl8VFL8lw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1667514357088,"uuid":"QfG3nMo4GyRCvVsZuguRDg","version":"1"}
 {"action":{"amount":"52000000000000000000","from":"Plr3BUqbQnneQ0aygU5QsA","memo":null,"to":"zJ1wFJh6cgT8QOl8VFL8lw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1667514357088,"uuid":"3SkXEDzeQAmcZr3nJQDuYg","version":"1"}
 {"action":{"amount":"51000000000000000000","from":"Oc2a6JAs7ZLPAaJT2RKvkA","memo":null,"to":"zJ1wFJh6cgT8QOl8VFL8lw","type":"TRANSFER_GRAIN"},"ledgerTimestamp":1667514357088,"uuid":"xyrnevd62CoTyWMQIDq1HA","version":"1"}
+{"action":{"currency":{"chainId":"1","tokenAddress":"0x6B175474E89094C44Da98b954EedeAC495271d0F","type":"EVM"},"id":"bzYvJxWvBZvnxL405xDf1g","payoutAddress":"0xe27B57A99e5CAc0E0f16eE0d5D768126B05422A8","type":"SET_PAYOUT_ADDRESS"},"ledgerTimestamp":1667515175115,"uuid":"vtmR4f0cw8aXlkdE0xJBiQ","version":"1"}
