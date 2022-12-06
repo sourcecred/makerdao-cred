@@ -6,7 +6,7 @@ on:
 #       - master
   # As well as every 24 hours (at 0:00 UTC).
   schedule:
-    - cron: 0 0 * * *
+    - cron: 5 0 * * 0 # Sundays at 00:05 UTC
   workflow_dispatch:
 
 jobs:
